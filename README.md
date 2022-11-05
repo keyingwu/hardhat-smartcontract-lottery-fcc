@@ -35,7 +35,7 @@ Checkout the full blockchain course video [here.](https://www.youtube.com/watch?
 ## Quickstart
 
 ```shell
-git clone https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc
+git clone https://github.com/sheepskin1/hardhat-smartcontract-lottery-fcc
 cd hardhat-smartcontract-lottery-fcc
 yarn
 ```
